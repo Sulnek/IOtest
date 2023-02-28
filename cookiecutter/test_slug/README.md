@@ -14,7 +14,7 @@ test
         :alt: Documentation Status
 
 
-
+![example workflow](https://github.com/Sulnek/IOtest/actions/workflows/test.yaml/badge.svg)
 
 lalalaalalala
 
